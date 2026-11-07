@@ -1,5 +1,5 @@
 # CONSTRAINER: Promptable Graph-Structured Optimization via Constraint Conditioning
 
-Project page for the NeurIPS 2026 paper. Code will be released here.
+Project page for the NeurIPS 2026 paper.
 
 Page: https://constrainer-ai.github.io
